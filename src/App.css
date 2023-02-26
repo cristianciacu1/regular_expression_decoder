@@ -5,3 +5,11 @@
   position: absolute;
   z-index: -2;
 }
+
+button.pressedButton {
+  background-color: red;
+}
+
+button.unpressedButton {
+  background-color: white;
+}
